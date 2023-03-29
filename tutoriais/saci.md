@@ -28,7 +28,7 @@ Utilizamos a palavra-chave **printf("%d\n", *inteiro*)**. %d é o tipo de dados 
 
 
 ## Exemplo
-![image](https://user-images.githubusercontent.com/65428645/228625682-e9940939-cf3d-4902-82e2-cb371793d8ec.png)
+![image](https://user-images.githubusercontent.com/65428645/228625798-bbb88ce4-5016-4e02-b0c3-cd6957866f25.png)
 
 
 ## Operadores Lógicos
